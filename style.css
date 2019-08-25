@@ -1,0 +1,43 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    color:#777;
+    background:#777;
+    width:960px;
+    font-size:18px;
+}
+
+header{background-color:#777;
+    height: 25px;
+    padding: 10px;
+    border: 1px solid white;
+}
+
+nav{
+    background:#ebebeb;
+}
+
+section{
+    background:#ebebeb;
+    width:495px;
+    padding:15px;
+}
+
+aside{
+    background:#ebebeb;
+}
+
+footer{
+    background:#ebebeb;
+}
+
+h1,h2,h3{
+    color:#777;
+    background:#ebebeb;
+}
+
+p{
+    color:#777;
+    background:#ebebeb;
+}
+
+.container{text-align:center;}
